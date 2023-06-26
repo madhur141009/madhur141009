@@ -1,5 +1,5 @@
 # 💫 About Me:
-A coder who want to code his life his own way........
+A student who is keen to learn how to code...
 # 💻 Tech Stack:
 ![PYTHON](https://img.shields.io/badge/PYTHON-3670A0) ![HTML](https://img.shields.io/badge/HTML-F98A15) ![CSS](https://img.shields.io/badge/CSS-1579a8) ![CANVA](https://img.shields.io/badge/CANVA-15F9EB) ![SCRATCH](https://img.shields.io/badge/SCRATCH-FA4C00) ![MYSQL](https://img.shields.io/badge/MYSQL-blue)
 # 📊 GitHub Stats:
